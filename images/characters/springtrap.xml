@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="springtrap.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Springtrap Sing Note DOWN instance 10000" x="24" y="24" width="598" height="625" frameX="0" frameY="-51" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10001" x="24" y="24" width="598" height="625" frameX="0" frameY="-51" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10002" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10003" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10004" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10005" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10006" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10007" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10008" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10009" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10010" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10011" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10012" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing Note DOWN instance 10013" x="670" y="24" width="587" height="676" frameX="0" frameY="0" frameWidth="598" frameHeight="676"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10000" x="1305" y="24" width="471" height="788" frameX="0" frameY="-4" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10001" x="1305" y="24" width="471" height="788" frameX="0" frameY="-4" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10002" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10003" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10004" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10005" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10006" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10007" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10008" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10009" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10010" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10011" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10012" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note LEFT instance 10013" x="1824" y="24" width="466" height="792" frameX="-9" frameY="0" frameWidth="475" frameHeight="792"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10000" x="2338" y="24" width="497" height="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10001" x="2338" y="24" width="497" height="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10002" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10003" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10004" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10005" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10006" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10007" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10008" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10009" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10010" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10011" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10012" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note RIGHT instance 10013" x="2883" y="24" width="490" height="753" frameX="0" frameY="-1" frameWidth="497" frameHeight="754"/>
+	<SubTexture name="Springtrap Sing note UP instance 10000" x="3421" y="24" width="488" height="836" frameX="-2" frameY="0" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10001" x="3421" y="24" width="488" height="836" frameX="-2" frameY="0" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10002" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10003" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10004" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10005" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10006" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10007" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10008" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10009" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10010" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10011" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10012" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap Sing note UP instance 10013" x="24" y="908" width="490" height="819" frameX="0" frameY="-17" frameWidth="490" frameHeight="836"/>
+	<SubTexture name="Springtrap idle dance instance 10000" x="562" y="908" width="612" height="764" frameX="0" frameY="-45" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10001" x="562" y="908" width="612" height="764" frameX="0" frameY="-45" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10002" x="1222" y="908" width="592" height="766" frameX="-9" frameY="-43" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10003" x="1222" y="908" width="592" height="766" frameX="-9" frameY="-43" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10004" x="1862" y="908" width="574" height="780" frameX="-19" frameY="-29" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10005" x="1862" y="908" width="574" height="780" frameX="-19" frameY="-29" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10006" x="2484" y="908" width="569" height="804" frameX="-23" frameY="-5" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10007" x="2484" y="908" width="569" height="804" frameX="-23" frameY="-5" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10008" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10009" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10010" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10011" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10012" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+	<SubTexture name="Springtrap idle dance instance 10013" x="3101" y="908" width="564" height="809" frameX="-24" frameY="0" frameWidth="612" frameHeight="809"/>
+</TextureAtlas>
