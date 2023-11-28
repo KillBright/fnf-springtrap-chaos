@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Springtrap Sing Note DOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Springtrap Sing note LEFT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Springtrap Sing note UP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				85
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Springtrap idle dance instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Springtrap Sing note RIGHT instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/springtrap",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "springtrap",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		120
+	],
+	"camera_position": [
+		-30,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

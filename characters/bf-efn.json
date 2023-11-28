@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN POSE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				40
+			],
+			"anim": "maskoff",
+			"fps": 24,
+			"name": "bf mask off full",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				87,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RIGHT POSE0"
+		},
+		{
+			"offsets": [
+				-19,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LEFT POSE0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EFN_BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfefnnomask",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		85,
+		254
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

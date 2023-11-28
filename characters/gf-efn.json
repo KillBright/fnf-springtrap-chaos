@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				198
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf shock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				169
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "gf cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				153
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gf idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/efngirlfriend",
+	"position": [
+		0,
+		160
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

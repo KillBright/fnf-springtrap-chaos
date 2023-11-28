@@ -1,0 +1,3 @@
+Value 1: Amount of health drain
+To make it stop set a new health drain event
+with 0 as value 1
