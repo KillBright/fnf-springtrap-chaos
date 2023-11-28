@@ -1,0 +1,9 @@
+{
+	"directory": "fright",
+	"defaultZoom": 1,
+	"isPixelStage": false,
+
+	"boyfriend": [854, 130],
+	"girlfriend": [1104, 241],
+	"opponent": [250, 160]
+}
